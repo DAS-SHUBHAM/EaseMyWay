@@ -1,4 +1,4 @@
-# Pystay-EaseMyWay
+#EaseMyWay
 ✈️ Flight Booking System (Python + Tkinter + MySQL)
 
 This is a desktop-based Flight Booking System developed using Python, Tkinter for the GUI, and MySQL for database management. The project provides user authentication (Sign Up & Login) and serves as a foundation for a complete flight reservation system.
